@@ -4,6 +4,7 @@ Welcome to the Frontrunning Bot repository! 👋 We hope you find this bot usefu
 
 ## What is a FrontRunning Bot?
 
+
 Front running bots are bots that have the ability to anticipate a big transaction that is going to change the token price, sometimes going up to 100%. By executing trades before the transaction is made public, the bot can take advantage of the price increase and generate profits.
 
 ## How to Run the FrontRunning Bot
